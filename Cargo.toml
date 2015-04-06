@@ -1,0 +1,4 @@
+[package]
+name = "rbasic"
+version = "0.0.1"
+authors = ["Michael Alexander <beefsack@gmail.com>"]
